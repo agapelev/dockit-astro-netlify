@@ -1,7 +1,7 @@
 {
   "main": [
     {
-      "label": "Getting Started",
+      "label": "Начинаем",
       "translations": {
         "de": "Erste Schritte"
       },
@@ -14,14 +14,14 @@
           "autogenerate": { "directory": "getting-started/introduction" }
         },
         {
-          "label": "[setting] Global Settings",
+          "label": "[setting] Глобальные настройки",
           "translations": {
             "de": "[setting] Globale instellingen"
           },
           "autogenerate": { "directory": "getting-started/global-settings" }
         },
         {
-          "label": "[seti:plan] Navigation",
+          "label": "[seti:plan] Навигация",
           "translations": {
             "de": "[seti:plan] Navigatie"
           },
@@ -30,7 +30,7 @@
       ]
     },
     {
-      "label": "Content",
+      "label": "Содержание",
       "translations": {
         "de": "Inhoud"
       },

@@ -1,24 +1,24 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Дом",
       "url": "/"
     },
     {
-      "name": "Documentation",
+      "name": "Документация",
       "url": "/getting-started/introduction/overview/"
     },
     {
-      "name": "Reference",
+      "name": "Ссылки",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Configuration",
+          "name": "Конфигурация",
           "url": "/reference/configuration/"
         },
         {
-          "name": "Plugins Reference",
+          "name": "Справочник плагинов",
           "url": "/reference/plugin/"
         }
       ]
@@ -26,72 +26,72 @@
   ],
   "footer": {
     "community": {
-      "title": "Join Our Community",
+      "title": "Присоеденяйтесь к сообществу",
       "links": [
         {
-          "name": "GitHub Discussions",
+          "name": "Обсуждения на GitHub",
           "url": "https://github.com/themefisher/dockit/discussions"
         },
         {
-          "name": "Discord Community",
+          "name": "Discord Сообщество",
           "url": "/"
         },
         {
-          "name": "Twitter Updates",
+          "name": "Twitter Сообщество",
           "url": "/"
         },
         {
-          "name": "Contributing Guide",
+          "name": "Руководство по написанию статей",
           "url": "/"
         }
       ]
     },
     "help_links": {
-      "title": "Helpful Links",
+      "title": "Полезные ссылки",
       "links": [
         {
-          "name": "Getting Started",
+          "name": "Начиная",
           "url": "/"
         },
         {
-          "name": "Privacy Policy",
+          "name": "Политика безопасности",
           "url": "/privacy-policy"
         },
         {
-          "name": "Terms and Conditions",
+          "name": "Условия и положения",
           "url": "/terms-conditions"
         },
         {
-          "name": "About Us",
+          "name": "О нас",
           "url": "/about"
         },
         {
-          "name": "Troubleshooting",
+          "name": "Поиск неисправностей",
           "url": "/"
         }
       ]
     },
     "company": {
-      "title": "Resources",
+      "title": "Ресурсы",
       "links": [
         {
-          "name": "Documentation Hub",
-          "url": "/docs/"
+          "name": "Центр документации",
+          "url": "/getting-started/introduction/overview/"
         },
         {
-          "name": "Theme Gallery",
+          "name": "Галерея шаблонов",
           "url": "/"
         },
         {
-          "name": "Best Practices",
+          "name": "Лучшии практики",
           "url": "/"
         },
         {
-          "name": "Performance Tips",
+          "name": "Советы по повышению квалификации",
           "url": "/"
         },
         {
-          "name": "Migration Guide",
+          "name": "Руководство по миграции",
           "url": "/"
         }
       ]

@@ -3,7 +3,7 @@ import { getEntry } from "astro:content";
 import Button from "./user-components/Button.astro";
 import Section from "./Section.astro";
 
-const locale = Astro.currentLocale || "en";
+const locale = Astro.currentLocale || "ru";
 
 const cta = await getEntry(
   "ctaSection",
@@ -19,14 +19,14 @@ const { title, description, enable, fill_button, outline_button } =
       <Section title={title} description={description}>
         {fill_button?.enable && (
           <Button
-            label={fill_button.label || "Get Started"}
+            label={fill_button.label || "Начинаем"}
             link={fill_button.link || "/getting-started/introduction/overview/"}
             variant="primary"
           />
         )}
         {outline_button?.enable && (
           <Button
-            label={outline_button.label || "Get a live demo"}
+            label={outline_button.label || "Посмотреть демо сайт"}
             link={
               outline_button.link || "/getting-started/introduction/overview/"
             }

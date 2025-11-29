@@ -1,13 +1,22 @@
 {
   "site": {
-    "title": "DocKit",
+    "title": "MissionDocKit",
+    "description": "Shekinah Mission Kazakhstan Documentation",
+    "author": "Lev Dessyatykh",
+    "email": "your.dessyatykh@gmail.com",
+    "base_url": "https://web-shekinah.netlify.app",
     "logo": "/src/assets/logo-light.svg",
     "logo_darkmode": "/src/assets/logo-dark.svg",
     "logo_width": "127",
     "logo_height": "32",
-    "logo_text": "DocKit"
+    "logo_text": "MissionDocKit"
   },
-
+  "metadata": {
+    "meta_author": "Lev Dessyatykh",
+    "meta_image": "/assets/LevD.jpg",
+    "meta_description": "Creare Shekinah Mission Documentation"
+  },
+  
   "settings": {
     "search": true,
     "theme_switcher": true
@@ -18,12 +27,12 @@
       "enable": true,
       "action": "#"
     },
-    "copyright": "Designed and Developed by <a class=\"text-primary hover:underline no-underline\" href=\"https://themefisher.com\" target=\"_blank\" rel=\"noopener\" aria-label=\"Themefisher\">Themefisher</a> Copyright &copy; 2025."
+    "copyright": "Shekinah Mission & WebArystan by <a class=\"text-primary hover:underline no-underline\" href=\"https://themefisher.com\" target=\"_blank\" rel=\"noopener\" aria-label=\"Themefisher\">Themefisher</a> Copyright &copy; 2025."
   },
 
   "navigation_button": {
     "enable": true,
-    "label": "Get Started",
+    "label": "Начинаем",
     "translations": {
       "de": "Erste Schritte"
     },
